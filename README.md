@@ -27,12 +27,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-## 🕰️ Recently I'm coding in...
-
-<a href="https://codestats.net/users/CatNum">
-  <img src='https://codestats-readme.wegfan.cn/history-graph/CatNum?width=1000&height=300&timezone=08:00&history_days=30&max_languages=12&language_colors=["00ADD8","F34B7D","083FA1","292929","3D6117","B66D98","3572A5","F1E05A","E4CC98","012456","F39A07","E34C26","EDEDED"]' alt="CatNum's Code::Stats history graph" />
-</a>
-
 ## 📈 Contribution Timeline
 
  <picture>
@@ -40,18 +34,6 @@
 </picture>
 
 <hr>
-
-## 🐍 Contribution Snake
-
-<picture>
-    <img alt="CatNum's contribution snake" src="https://raw.githubusercontent.com/CatNum/CatNum/output-snake/snake.svg" width="100%">
-</picture>
-
-## 🏙️ Contribution City
-
-<picture>
-    <img alt="CatNum's 3D contribution city" src="./city.svg" width="100%">
-</picture>
 
 <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CatNum/CatNum/output/pacman-contribution-graph.svg">
