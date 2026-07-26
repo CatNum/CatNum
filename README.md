@@ -8,6 +8,14 @@
 - 🧭 I believe in planning openly, executing safely, and verifying outcomes.
 - 🏢 Focused on reliable backend systems, Agent orchestration, tool execution, tracing, and evaluation.
 
+### 我是 CatNum
+
+- 💼 从 Go 后端工程走向 Agent 工程。
+- 🔬 构建可控、可观测、可评测的 AI Agent 系统。
+- 💬 欢迎通过 [GitHub](https://github.com/CatNum) 与我交流。
+- 🧭 我的工程理念：开放规划、安全执行、验证结果。
+- 🏢 专注于可靠的后端系统、Agent 编排、工具执行、链路追踪与效果评测。
+
 ### ⌨️ Development Language
 
 ![Go](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
