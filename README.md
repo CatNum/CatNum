@@ -31,16 +31,3 @@
 ![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-## 📈 Contribution Timeline
-
- <picture>
-  <img alt="CatNum's contribution timeline" src="https://github-readme-activity-graph.vercel.app/graph?username=CatNum&theme=github-light" width="100%">
-</picture>
-
-<hr>
-
-<picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CatNum/CatNum/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CatNum/CatNum/output/pacman-contribution-graph.svg">
-</picture>
