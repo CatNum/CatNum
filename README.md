@@ -2,19 +2,19 @@
 
 ### I'm CatNum
 
-- 💼 A Go backend engineer moving into Agent engineering.
-- 🔬 Building controlled, observable, and evaluable AI Agent systems.
-- 💬 Feel free to ask me anything on [GitHub](https://github.com/CatNum).
-- 🧭 I believe in planning openly, executing safely, and verifying outcomes.
-- 🏢 Focused on reliable backend systems, Agent orchestration, tool execution, tracing, and evaluation.
+- 👣 Put knowledge into practice.
+- ✨ Minimalist aesthetics.
+- 🧮 Code is mathematics.
+- 🛠️ Backend engineering (Golang), Agent engineering, and a passion for products.
+- 📺 I enjoyed reading novels during my school years; now I enjoy watching anime.
 
 ### 我是 CatNum
 
-- 💼 从 Go 后端工程走向 Agent 工程。
-- 🔬 构建可控、可观测、可评测的 AI Agent 系统。
-- 💬 欢迎通过 [GitHub](https://github.com/CatNum) 与我交流。
-- 🧭 我的工程理念：开放规划、安全执行、验证结果。
-- 🏢 专注于可靠的后端系统、Agent 编排、工具执行、链路追踪与效果评测。
+- 👣 知行合一。
+- ✨ 极简美学。
+- 🧮 代码就是数学。
+- 🛠️ 后端工程（Golang）、Agent 工程、热爱产品。
+- 📺 上学时喜欢看小说，现在喜欢看动漫。
 
 ### ⌨️ Development Language
 
@@ -31,3 +31,29 @@
 ![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### 喜爱的动漫
+
+1. 《四月是你的谎言》
+2. 《凡人修仙传》
+3. 《风灵玉秀》
+4. 《昨日之歌》
+5. 《雾山五行》
+6. 《沧元图》
+7. 《中国唱诗班》，现名《中国古诗词动漫》
+8. 《诛仙》
+9. 《一人之下》
+10. 《灵笼》
+11. 《紫川》
+12. 《魁拔》
+13. 《火凤燎原》
+14. 《剑来》
+15. 《放开那个女巫》
+16. 《镇魂街》
+17. 《伍六七》
+18. 《少年歌行》
+19. 《君有云》
+20. 《我是江小白》
+21. 《将夜》
+22. 《任务大师》
+23. 《》...
