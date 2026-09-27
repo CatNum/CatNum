@@ -1,15 +1,17 @@
-<img align="right" alt="凡人修仙传 · 韩立动态壁纸" width="420" src="./assets/hanli.gif" />
+<img align="right" alt="凡人修仙传 · 韩立动态壁纸" width="420" src="./assets/hanli-rounded.webp" />
 
 ### 我是 CatNum
 
 - 🛠️ Golang 后端 · Agent 工程 · 热爱产品
 - 👣 知行合一 · ✨ 极简美学 · 🧮 代码就是数学
+- 🔄 系统是用出来的，而不是设计出来的。
 - 📺 上学时喜欢看小说，现在喜欢看动漫。
 
 ### I'm CatNum
 
 - 🛠️ Golang backend · Agent engineering · A passion for products
 - 👣 Put knowledge into practice · ✨ Minimalist aesthetics · 🧮 Code is mathematics
+- 🔄 Systems are shaped by use, not by design.
 - 📺 I enjoyed reading novels during my school years; now I enjoy watching anime.
 
 ### ⌨️ Development Language
