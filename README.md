@@ -1,20 +1,16 @@
 <img align="right" alt="GIF" src="https://s2.loli.net/2024/12/07/dL4JXeokBQPisbN.gif" />
 
-### I'm CatNum
-
-- 👣 Put knowledge into practice.
-- ✨ Minimalist aesthetics.
-- 🧮 Code is mathematics.
-- 🛠️ Backend engineering (Golang), Agent engineering, and a passion for products.
-- 📺 I enjoyed reading novels during my school years; now I enjoy watching anime.
-
 ### 我是 CatNum
 
-- 👣 知行合一。
-- ✨ 极简美学。
-- 🧮 代码就是数学。
-- 🛠️ 后端工程（Golang）、Agent 工程、热爱产品。
+- 🛠️ Golang 后端 · Agent 工程 · 热爱产品
+- 👣 知行合一 · ✨ 极简美学 · 🧮 代码就是数学
 - 📺 上学时喜欢看小说，现在喜欢看动漫。
+
+### I'm CatNum
+
+- 🛠️ Golang backend · Agent engineering · A passion for products
+- 👣 Put knowledge into practice · ✨ Minimalist aesthetics · 🧮 Code is mathematics
+- 📺 I enjoyed reading novels during my school years; now I enjoy watching anime.
 
 ### ⌨️ Development Language
 
@@ -37,6 +33,10 @@
 1. 《四月是你的谎言》
 2. 《凡人修仙传》
 3. 《风灵玉秀》
+
+<details>
+<summary>...</summary>
+
 4. 《昨日之歌》
 5. 《雾山五行》
 6. 《沧元图》
@@ -57,3 +57,5 @@
 21. 《将夜》
 22. 《任务大师》
 23. 《》...
+
+</details>
