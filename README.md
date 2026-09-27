@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://s2.loli.net/2024/12/07/dL4JXeokBQPisbN.gif" />
+<img align="right" alt="凡人修仙传 · 韩立动态壁纸" width="420" src="./assets/hanli.gif" />
 
 ### 我是 CatNum
 
